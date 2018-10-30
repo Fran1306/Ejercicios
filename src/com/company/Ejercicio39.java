@@ -1,8 +1,8 @@
 package com.company;
 
-public class Main {
+public class Ejercicio39 {
 
     public static void main(String[] args) {
-
+        int h=9;
     }
 }
